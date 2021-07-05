@@ -22,4 +22,6 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 
-[![Olegnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olegnim)](https://github.com/Olegnim)
+[![Olegnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olegnim&hide=html)](https://github.com/Olegnim)
+
+[![Lung stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Olegnim&hide=html)](https://github.com/Olegnim)
