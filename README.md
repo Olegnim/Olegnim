@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on onlinecafe
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: http://Olegnim.ru
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
