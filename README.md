@@ -21,6 +21,8 @@
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
 [![Olegnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olegnim&hide=html)](https://github.com/Olegnim)
